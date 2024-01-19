@@ -1,0 +1,2 @@
+# --no-install
+npx husky add .husky/pre-commit "npm run lint:lint-staged"
