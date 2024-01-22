@@ -14,6 +14,9 @@
     "prepare": "husky install",
     "lint:lint-staged": "lint-staged"
   },
+  "engines": {
+    "node": "16.x || 18.x"
+  },
   "dependencies": {
     "element-plus": "^2.5.1",
     "pinia": "^2.1.7",
