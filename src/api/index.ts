@@ -1,10 +1,3 @@
-/*
- * @Description:
- * @Author: xieyadong
- * @Date: 2024-01-18 11:50:29
- * @LastEditTime: 2024-01-18 14:12:29
- * @LastEditors: xieyadong
- */
 import { get } from '@/utils/http'
 
 // 默认类型，可自定义参数引入

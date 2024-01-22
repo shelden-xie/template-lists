@@ -1,10 +1,3 @@
-/*
- * @Description:
- * @Author: xieyadong
- * @Date: 2024-01-17 09:54:41
- * @LastEditTime: 2024-01-18 19:06:27
- * @LastEditors: xieyadong
- */
 import { fileURLToPath, URL } from 'node:url'
 
 import { defineConfig, UserConfig, ConfigEnv } from 'vite'

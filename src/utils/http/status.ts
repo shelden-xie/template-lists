@@ -1,10 +1,3 @@
-/*
- * @Description:
- * @Author: xieyadong
- * @Date: 2024-01-18 11:18:37
- * @LastEditTime: 2024-01-18 14:30:52
- * @LastEditors: xieyadong
- */
 export const getMessage = (status: number | string): string => {
   let message = ''
   switch (status) {

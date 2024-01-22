@@ -1,10 +1,3 @@
-/*
- * @Description:
- * @Author: xieyadong
- * @Date: 2024-01-17 09:54:41
- * @LastEditTime: 2024-01-18 14:13:47
- * @LastEditors: xieyadong
- */
 import '@/styles/main.scss'
 
 import { createApp } from 'vue'
