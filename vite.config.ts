@@ -14,6 +14,10 @@ export default defineConfig(({ command, mode }: ConfigEnv): UserConfig => {
     plugins: [
       vue(),
       AutoImport({
+        imports: ['vue'],
+        eslintrc: {
+          enabled: false
+        },
         resolvers: [ElementPlusResolver()]
       }),
       Components({
