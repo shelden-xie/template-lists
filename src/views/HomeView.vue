@@ -1,7 +1,9 @@
-<script setup lang="ts">
-// 自己发挥吧！
+<script setup>
+import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
-  <main>测试一下</main>
+  <main>
+    <TheWelcome />
+  </main>
 </template>
