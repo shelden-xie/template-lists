@@ -1,6 +1,7 @@
 {
   "name": "template-vue",
-  "version": "0.0.0",
+  "description": "project",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
