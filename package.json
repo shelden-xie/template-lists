@@ -16,7 +16,7 @@
     "lint:lint-staged": "lint-staged"
   },
   "engines": {
-    "node": "16.x || 18.x"
+    "node": ">=18.0.0"
   },
   "dependencies": {
     "element-plus": "^2.5.1",
